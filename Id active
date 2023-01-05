@@ -1,8 +1,7 @@
-💢 X-PRO New Update. 
-💢 Free Command. 
+ 
 
-rm -rf X-PRO 
+rm -rf X-BAXA
 https://raw.githubusercontent.com/baxa12345/BAXA.txt/main/Id%20active
-cd X-PRO 
+cd X-BAXA 
 git pull
 python MKR.py
